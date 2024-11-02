@@ -118,7 +118,7 @@ body{
 /* ########### about styling  ################# */
 
 #about{
-    overflow:hidden;
+    overflow: hidden;
     padding: 50px 0px;
     background-color: rgb(238, 238, 238);
 }
